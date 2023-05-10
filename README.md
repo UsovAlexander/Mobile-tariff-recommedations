@@ -1,3 +1,3 @@
 # mobile_tariff_recommedations
 
-Модель рекомендации тарифов сотовой связи с максимальным значением метрики accuracy
+You need to build a model for the classification problem that will choose the appropriate tariff.
